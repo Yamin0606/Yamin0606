@@ -1,5 +1,3 @@
-This is a scoping review of research in China about the biological mechanisms that potentially link socioenvironmental changes and mental health. 
-
-It is part of the Lancet Commission on Mental Health in China
-
-During the last three decades, rapid urbanization and economic development in China have been associated with environmental pollution, increasing socioeconomic inequity, and changes in individuals' daily behavior that have had harmful effects on the population's mental health. Over this same period, the biological mechanisms associated with mental disorders have been extensively studied, and several specific biomarkers of mental disorders have been identified. Some studies have shown that socioenvironmental agents such as urbanization, environmental pollution, dietary changes, and changes in activity level can affect some of the biomarkers associated with mental disorders. Given the rapid socioeconomic changes in China in recent decades, China is a fitting location to summarize the diverse research about how biological changes associated with socioenvironmental changes affect population mental health and, thus, lay the groundwork for subsequent, more focused studies. 
+- 👋 Hi, I’m Yamin Zhang.
+- 👀 I’m interested in genetic and epidemiological study of psychiatric disorders.
+- 🌱 I’m currently learning sequencing data analyses, including short-read and long-read sequencing.
